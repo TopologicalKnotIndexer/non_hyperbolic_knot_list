@@ -39,7 +39,7 @@ If you use this repository in academic work, please cite it as:
 
 ```bibtex
 @software{topologicalknotindexer_non_hyperbolic_knot_list,
-  author = {{TopologicalKnotIndexer contributors}},
+  author = {{GGN\_2015}},
   title = {{non\_hyperbolic\_knot\_list}},
   year = {2026},
   url = {https://github.com/TopologicalKnotIndexer/non_hyperbolic_knot_list}
