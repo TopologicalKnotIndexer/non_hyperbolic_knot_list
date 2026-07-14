@@ -33,3 +33,16 @@ No external software is required to consume the committed files. This
 repository does not attempt to assign a geometric volume to non-hyperbolic
 knots.
 
+## Citation
+
+If you use this repository in academic work, please cite it as:
+
+```bibtex
+@software{topologicalknotindexer_non_hyperbolic_knot_list,
+  author = {{TopologicalKnotIndexer contributors}},
+  title = {{non\_hyperbolic\_knot\_list}},
+  year = {2026},
+  url = {https://github.com/TopologicalKnotIndexer/non_hyperbolic_knot_list}
+}
+```
+
